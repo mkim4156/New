@@ -1,1 +1,6 @@
-#ay fuck you
+int
+main()
+{
+
+return 0;
+}
